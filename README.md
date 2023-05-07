@@ -13,7 +13,7 @@ This dataset consists of about 87K rgb images of healthy and diseased crop leave
 
 - Run the **Plant Disease Classification App**
 
-- The demo app appear automatically within the Jupyter Notebook, or pop in a browser on http://localhost:7860
+- The demo app appear automatically within the Jupyter Notebook, or pop in a browser on `http://localhost:7860`
 
 
 ![demo_app](https://user-images.githubusercontent.com/99869931/236658620-4f9fd13b-a5a6-4927-99de-f31f7bdfbf8d.png)
